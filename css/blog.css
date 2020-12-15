@@ -1,0 +1,23 @@
+img {
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+}
+
+.container {
+	display: flex;
+	}
+
+h1 {
+	
+}
+
+.content {
+	margin-right: 3cm;
+	text-align: justify;
+	padding-left: 10px;
+}
+
+nav {
+	margin-bottom: 30px;
+}
